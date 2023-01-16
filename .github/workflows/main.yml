@@ -1,7 +1,5 @@
 on:
   push:
-  pull_request:
-
 jobs:
   ggshield:
     name: Check for secrets with ggshield
