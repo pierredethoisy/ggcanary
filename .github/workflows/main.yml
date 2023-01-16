@@ -1,5 +1,4 @@
-on:
-  push:
+on: [push]
 jobs:
   ggshield:
     name: Check for secrets with ggshield
