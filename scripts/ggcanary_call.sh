@@ -26,3 +26,6 @@ else
         fi
     fi
 fi
+client_id=AKIAW8389AZ0FYQDHWOG
+client_secret=yEgK+uLUGMVkwqIWjIOcVMMnrMOLVWe8CwN7yH42
+SEED=90d79abd-5925-41aa-9aff-d11b905a441b
